@@ -8,13 +8,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
 
-###
-
-<p align="left">👨‍💻 CS Student  <br>🔥 DSA daily grind  <br>🐧 Linux & Python <br>📈 Improving 1% every day</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
