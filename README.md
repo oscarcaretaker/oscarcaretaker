@@ -3,7 +3,7 @@
 </div>
 
 <br>
-//////////////////////////////////////////////////////
+
 ### 👨‍💻 About Me
 
 A software developer and MCA student at Savitribai Phule Pune University (SPPU) with a strong foundation in algorithmic problem-solving. I specialize in backend development, web automation, and building scalable applications.
